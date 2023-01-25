@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Cardwine from './Card';
 import Navigation from './Navbar';
 import {data} from '../data/data.js'
 import styles from './styles/Home.module.css';
 
 export default function Home() {
+
    return (    
     <div >
       <Navigation/>
