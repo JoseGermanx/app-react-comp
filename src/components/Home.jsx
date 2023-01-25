@@ -2,34 +2,31 @@ import React from 'react';
 import Cardwine from './Card';
 import Navigation from './Navbar';
 import {data} from '../data/data.js'
-
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import styles from './styles/Home.module.css';
 
 export default function Home() {
    return (    
     <div >
       <Navigation/>
-      <Container fluid style={{display:'flex', alignItems:'center'}}>
-      <Row>
+      <div >
+      <div className={styles.container}>
       {data.length > 0 ? data.map((e) => {    
         return (          
           <div key={e.id}>
-          <Col style={{display:'flex', justifyContent: 'center'}}>
+          <div className={styles.containerCard}>
           <Cardwine
           nombre={e.wine}
           vineria={e.winery}
           imagen={e.image}
           location={e.location}
           />
-          </Col>
+          </div>
         </div>
         
         )
        }):<div style={{display:'flex', alignItems:'center'}}><h1>No hay datos</h1></div>}
-       </Row>
-    </Container>
+       </div>
+    </div>
     </div>
 )
 }

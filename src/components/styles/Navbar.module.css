@@ -1,0 +1,35 @@
+.navContainer {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.titulo {
+    margin-left: 5%;
+}
+
+.contenedorLinks{
+    margin-right: 5%;
+
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+
+ul {
+    list-style-type: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+li {
+    padding: 5px;
+}
