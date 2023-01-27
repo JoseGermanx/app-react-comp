@@ -9,7 +9,8 @@
         },
         "location": "Italy\n·\nAmarone della Valpolicella",
         "image": "https://images.vivino.com/thumbs/nC9V6L2mQQSq0s-wZLcaxw_pb_x300.png",
-        "id": 2
+        "id": 2,
+        "price": 15
       },
       {
         "winery": "Cartuxa",
@@ -20,7 +21,8 @@
         },
         "location": "Portugal\n·\nAlentejo",
         "image": "https://images.vivino.com/thumbs/L33jsYUuTMWTMy3KoqQyXg_pb_x300.png",
-        "id": 3
+        "id": 3,
+        "price": 20
       },
       {
         "winery": "Schrader",
@@ -31,7 +33,8 @@
         },
         "location": "United States\n·\nOakville",
         "image": "https://images.vivino.com/thumbs/GpcSXs2ERS6niDxoAsvESA_pb_x300.png",
-        "id": 4
+        "id": 4,
+        "price": 50
       },
       {
         "winery": "Hundred Acre",
@@ -42,7 +45,8 @@
         },
         "location": "United States\n·\nNapa Valley",
         "image": "https://images.vivino.com/thumbs/PBhGMcRNQ7aVnVNr7VgnWA_pb_x300.png",
-        "id": 5
+        "id": 5,
+        "price": 10
       },
       {
         "winery": "Sine Qua Non",
@@ -53,7 +57,8 @@
         },
         "location": "United States\n·\nCalifornia",
         "image": "https://images.vivino.com/thumbs/ZzMKzqFqRO-6oI3ys3gGgQ_pb_x300.png",
-        "id": 6
+        "id": 6,
+        "price": 70
       },
       {
         "winery": "Del Dotto",
@@ -64,7 +69,8 @@
         },
         "location": "United States\n·\nRutherford",
         "image": "https://images.vivino.com/thumbs/easjTPIcS-mCQ99XoYOMgQ_pb_x300.png",
-        "id": 7
+        "id": 7,
+        "price": 60
       },
       {
         "winery": "Darioush",
@@ -75,7 +81,8 @@
         },
         "location": "United States\n·\nNapa Valley",
         "image": "https://images.vivino.com/thumbs/U19RXtSdRMmoAesl2CBygA_pb_x300.png",
-        "id": 8
+        "id": 8,
+        "price": 90
       },
       {
         "winery": "Garbole",
@@ -86,7 +93,8 @@
         },
         "location": "Italy\n·\nVeneto",
         "image": "https://images.vivino.com/thumbs/f_G1SS0eT_C6hZGGwdEZqA_pb_x300.png",
-        "id": 9
+        "id": 9,
+        "price": 55
       },
       {
         "winery": "Scarecrow",
@@ -97,7 +105,8 @@
         },
         "location": "United States\n·\nRutherford",
         "image": "https://images.vivino.com/thumbs/pU7uFKR-TAKAOQaf3Hpn2A_pb_x300.png",
-        "id": 10
+        "id": 10,
+        "price": 65
       },
       {
         "winery": "E. Guigal",
@@ -108,7 +117,8 @@
         },
         "location": "France\n·\nCôte-Rôtie",
         "image": "https://images.vivino.com/thumbs/HYVZMFigQ5qXxni7s9SpWw_pb_x300.png",
-        "id": 11
+        "id": 11,
+        "price": 150
       },
       {
         "winery": "Domaine Armand Rousseau",
@@ -119,7 +129,8 @@
         },
         "location": "France\n·\nChambertin Grand Cru",
         "image": "https://images.vivino.com/thumbs/1XYwrN2-SQqqJlCMSUp3tA_pb_x300.png",
-        "id": 13
+        "id": 13,
+        "price": 120
       },
       {
         "winery": "Catena Zapata",
@@ -130,7 +141,8 @@
         },
         "location": "Argentina\n·\nAgrelo",
         "image": "https://images.vivino.com/thumbs/Yt464jw0QS-ugF7ZQEbE2Q_pb_x300.png",
-        "id": 14
+        "id": 14,
+        "price": 25
       },
       {
         "winery": "Bodegas Valduero",
@@ -141,6 +153,7 @@
         },
         "location": "Spain\n·\nRibera del Duero",
         "image": "https://images.vivino.com/thumbs/5kJTu3dMQUCEtBy3zIhrKA_pb_x300.png",
-        "id": 15
+        "id": 15,
+        "price": 130
       }
       ]

@@ -19,8 +19,18 @@
 
 .textCard {
  width: 75%;
-
 }
+
+.textCard > div {
+  margin: 2%;
+  width: 100%;
+  margin-top: 5%;
+  }
+
+.textCard > div > p{
+  line-height: 1em;
+ 
+ }
 
 img {  
   width: 70px;
@@ -37,7 +47,7 @@ img {
 button {
   border: none;
   background-color: white;
-  width: 2px;
+ 
 }
 
 p {
@@ -45,7 +55,7 @@ p {
 }
 
 .contenedorButton {
-  width: 50%;
+  width: 100%;
   margin-top: 5px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
